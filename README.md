@@ -90,24 +90,6 @@ const Mahabubul = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahabubulalam&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mahabubulalam/mahabubulalam/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahabubulalam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
