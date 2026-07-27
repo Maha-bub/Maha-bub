@@ -95,7 +95,7 @@ const Mahabubul = {
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-bub&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=Maha-bub&theme=tokyonight&hide_border=true"
 />
 
 </p>
