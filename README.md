@@ -73,22 +73,32 @@ const Mahabubul = {
 </p>
 
 ---
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maha-bub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Maha-bub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Maha-bub&theme=tokyonight&hide_border=true"/>
+<img
+  height="170"
+  src="https://streak-stats.demolab.com?user=Maha-bub&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-bub&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-bub&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </p>
-
 ---
 
 ## 📈 Contribution Activity
