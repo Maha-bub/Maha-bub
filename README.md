@@ -73,20 +73,21 @@ const Mahabubul = {
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maha-bub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maha-bub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maha-bub&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Maha-bub&theme=tokyonight&hide_border=true"/>
 
-<br/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-bub&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-bub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
