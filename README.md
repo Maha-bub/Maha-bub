@@ -14,8 +14,8 @@
 <br/>
 
 <!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=mahabubulalam&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/mahabubulalam?label=Followers&style=social)](https://github.com/mahabubulalam)
+![Profile Views]([https://komarev.com/ghpvc/?username=mahabubulalam&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=Maha-bub&label=Profile%20Views&color=0e75b6&style=flat))
+[![GitHub followers](https://img.shields.io/github/followers/Maha-bub?label=Followers&style=social)](https://github.com/Maha-bub)
 ![Status](https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=flat&logo=statuspage)
 
 </div>
@@ -78,10 +78,10 @@ const Mahabubul = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahabubulalam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabubulalam&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maha-bub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-bub&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubulalam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maha-bub&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -90,7 +90,7 @@ const Mahabubul = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maha-bub&theme=tokyo-night&hide_border=true&area=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maha-bub&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
@@ -98,7 +98,7 @@ const Mahabubul = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maha-bub/maha-bub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Maha-bub/Maha-bub/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 
