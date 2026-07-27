@@ -78,10 +78,13 @@ const Mahabubul = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maha-bub&show_icons=true&theme=tokyonight&v=1"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maha-bub&show_icons=true&theme=tokyonight&v=2"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maha-bub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maha-bub&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-bub&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
