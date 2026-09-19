@@ -31,28 +31,18 @@
 
 ## 👨‍💻 About Me
 
-```javascript
 const Mahabubul = {
   name: "Mahabubul Alam",
   role: "Full-Stack Web Application Developer",
   location: "Bangladesh 🇧🇩",
- frontend: [ "HTML", "CSS","JavaScript","TypeScript","React", "Next.js","Tailwind CSS"  ],
-
-
-  backend: [    "PHP", "Laravel", "Node.js",    "Express.js"  ],
-
-  database: [    "MySQL",    "PostgreSQL",    "MongoDB"  ],
-
-  tools: [    "Git",    "GitHub",    "REST API"  ],
-
-  currentlyLearning: [    "Next.js",    "System Design",    "Better Auth"  ],
-
-  openTo: [   "Full-Time Opportunities",    "Remote Work",    "Freelance Projects"  ],
-
+  frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS"],
+  backend: ["PHP", "Laravel", "Node.js", "Express.js"],
+  database: ["MySQL", "PostgreSQL", "MongoDB"],
+  tools: ["Git", "GitHub", "REST API"],
+  currentlyLearning: ["Next.js", "System Design", "Better Auth"],
+  openTo: ["Full-Time Opportunities", "Remote Work", "Freelance Projects"],
   goal: "Build secure, scalable and maintainable web applications 🚀"
 };
-```
-
 ---
 
 ## 🚀 What I Do
