@@ -31,6 +31,7 @@
 
 ## 👨‍💻 About Me
 
+```javascript
 const Mahabubul = {
   name: "Mahabubul Alam",
   role: "Full-Stack Web Application Developer",
@@ -43,6 +44,8 @@ const Mahabubul = {
   openTo: ["Full-Time Opportunities", "Remote Work", "Freelance Projects"],
   goal: "Build secure, scalable and maintainable web applications 🚀"
 };
+```
+
 ---
 
 ## 🚀 What I Do
@@ -83,7 +86,7 @@ const Mahabubul = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
 </p>
 
 ### 🗄️ Database
@@ -142,24 +145,6 @@ alt="GitHub Streak"
 />
 
 </div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Maha-bub">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Maha-bub&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
-  />
-</a>
-
-</div>
-
-> GitHub's own profile contribution calendar remains the source of truth for contribution activity. Third-party README graphs may have caching or API delays.
 
 ---
 
