@@ -36,47 +36,18 @@ const Mahabubul = {
   name: "Mahabubul Alam",
   role: "Full-Stack Web Application Developer",
   location: "Bangladesh 🇧🇩",
-  
-  frontend: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Tailwind CSS"
-  ],
+ frontend: [ "HTML", "CSS","JavaScript","TypeScript","React", "Next.js","Tailwind CSS"  ],
 
-  backend: [
-    "PHP",
-    "Laravel",
-    "Node.js",
-    "Express.js"
-  ],
 
-  database: [
-    "MySQL",
-    "PostgreSQL",
-    "MongoDB"
-  ],
+  backend: [    "PHP", "Laravel", "Node.js",    "Express.js"  ],
 
-  tools: [
-    "Git",
-    "GitHub",
-    "REST API"
-  ],
+  database: [    "MySQL",    "PostgreSQL",    "MongoDB"  ],
 
-  currentlyLearning: [
-    "Next.js",
-    "System Design",
-    "Better Auth"
-  ],
+  tools: [    "Git",    "GitHub",    "REST API"  ],
 
-  openTo: [
-    "Full-Time Opportunities",
-    "Remote Work",
-    "Freelance Projects"
-  ],
+  currentlyLearning: [    "Next.js",    "System Design",    "Better Auth"  ],
+
+  openTo: [   "Full-Time Opportunities",    "Remote Work",    "Freelance Projects"  ],
 
   goal: "Build secure, scalable and maintainable web applications 🚀"
 };
